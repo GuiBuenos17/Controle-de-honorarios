@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Icon-Path: honorario\src\br\com\rrol\icones
+Icon-Name: g
+X-COMMENT: Main-Class will be added automatically by build
+
